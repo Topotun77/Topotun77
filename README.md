@@ -2,6 +2,8 @@
 #### Я - Python-разработчик.
 Имею высшее образование по специальности "Информационные системы в экономике" и 15-летний опыт работы в IT-сфере.  
 Мои проекты и их подробное описание Вы можете увидеть ниже.
+#### Стек:
+Python, Django, FastAPI, aiogram, telegram, SQL, PostgreSQL, SQLite, Pandas, Matplotlib, Numpy, HTML
 
 <!--
 **Topotun77/Topotun77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
