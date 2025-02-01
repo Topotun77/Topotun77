@@ -3,7 +3,7 @@
 Имею высшее образование по специальности "Информационные системы в экономике" и 15-летний опыт работы в IT-сфере.  
 Мои проекты и их подробное описание Вы можете увидеть ниже.
 #### Стек:
-- Python: Django, FastAPI, aiogram, telegram-bot, Pandas, Matplotlib, Numpy
+- Python: Django, FastAPI, aiogram, telegram-bot, telebot, Pandas, Matplotlib, Numpy
 - BD: PostgreSQL, SQLite
 - JavaScript
 - SQL  
